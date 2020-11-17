@@ -14,16 +14,23 @@
 - Download the files that corresponds with Bruges from geopunt.be;
 - Learn how to handle Geotiff files;
 - Learn how to 3D plot;
-- Windowed reading via Rasterio
-- Save window to .tif file 
-- Transform nd array into dataframe
-- 3D surface plot dataframe with Matplotlib
-- Learn how to use Plotly (via Jupiter Notebook not with Jupyter Lab (doesn't work))
-- Reprojection in Rasterio
+- Windowed reading via Rasterio;
+- Save window to .tif file ;
+- Transform nd array into dataframe;
+- 3D surface plot dataframe with Matplotlib;
+- Learn how to use Plotly (via Jupiter Notebook not with Jupyter Lab (doesn't work));
+- Reprojection in Rasterio (does not work due to library issues);
+- Transform coordinates with Piproj ;
+
+ = result = FinalChallenge V1
+
 
 ## steps to do:
-- Finish reproduction
+
+- Make a function with input parameters (long, lat) and transform these in Belgian Lambert and make a nice 3D plot;
+
 - Make a website via WordPress for presentation
 OR
-- Dash Plotly
-- Maybe merge multiple tif files so geo-area becomes bigger.
+- Dash Plotly to present final script;
+
+- Maybe merge multiple tif files so geo-area becomes Belgium instead of only part of West-Flanders.
