@@ -21,16 +21,14 @@
 - Learn how to use Plotly (via Jupiter Notebook not with Jupyter Lab (doesn't work));
 - Reprojection in Rasterio (does not work due to library issues);
 - Transform coordinates with Piproj ;
-
- = result = FinalChallenge V1
-
+- write a program that takes DMS and converts into Decimals and Belgian Lambert '72;
+- continue with the program so it plots a location in Bruges in 3D;
 
 ## steps to do:
 
-- Make a function with input parameters (long, lat) and transform these in Belgian Lambert and make a nice 3D plot;
+- Use Dash to turn a Python script into a website;
+- Merge several .tif files into one so the area becomes bigger.
 
-- Make a website via WordPress for presentation
-OR
-- Dash Plotly to present final script;
+## latest script:
 
-- Maybe merge multiple tif files so geo-area becomes Belgium instead of only part of West-Flanders.
+- Final challenge V2
